@@ -21,7 +21,7 @@ cd RandomPasswordGenerator
 1. Запустите приложение:
 
 ```bash
-python main.py
+python итоговоетестирование.py
 ```
 
 Возможности
